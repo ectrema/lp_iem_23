@@ -3,10 +3,9 @@
 Il s'agit d'un projet d'initiation à Flutter.
 Vous utiliserez les données mises à votre disposition afin de constuire une interface simple.
 
-## List des liens 
-- Get /spots.json
-- Get /spot-details/{id}/comments.json
-- Post /spot-details/{id}/comments.json + body
+## [Collection postman](https://github.com/ectrema/lp_iem_23/files/10527299/firebase.spots.postman_collection.json.zip)
+
+
 
 Ces requêtes pointent toutes vers une base de données Firebase avec pour base URL https://spot-discovery-2023-default-rtdb.europe-west1.firebasedatabase.app
 
