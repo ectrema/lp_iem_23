@@ -3,7 +3,7 @@
 Il s'agit d'un projet d'initiation à Flutter.
 Vous utiliserez les données mises à votre disposition afin de constuire une interface simple.
 
-## [Collection postman](https://github.com/ectrema/lp_iem_23/files/10527299/firebase.spots.postman_collection.json.zip)
+## [Collection postman](https://github.com/ectrema/lp_iem_23/files/10578356/firebase.spots.postman_collection.json.zip)
 
 
 
